@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arinpandey" alt="arinpandey" /></a> </p>
 
-- 🌱 I’m currently learning **backend developement**
-
-- 💬 Ask me about **react, three.js, express and data structures**
-
 - 📫 How to reach me **arin.22scse1011868@galgotiasuniversity.edu.in**
 
 <h3 align="left">Connect with me:</h3>
