@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arinpandey&label=Profile%20views&color=0e75b6&style=flat" alt="arinpandey" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arinpandey" alt="arinpandey" /></a> </p>
 
 - 📫 How to reach me **arin.22scse1011868@galgotiasuniversity.edu.in**
 
@@ -19,6 +18,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arinpandey&show_icons=true&locale=en&layout=compact" alt="arinpandey" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arinpandey&show_icons=true&locale=en" alt="arinpandey" /></p>
 
 
